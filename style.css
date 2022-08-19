@@ -120,3 +120,43 @@
 	margin-right: 40px;
 	font-weight: bold;
 }
+
+.call-to-action {
+	margin: 80px auto;
+	width: 70%;
+	display: flex;
+	background-color: #3882F6;
+	padding: 40px 100px;
+	border-radius: 10px;
+}
+
+.call-text h1 {
+	color: #F9FAF8;
+	font-size: 24px;
+}
+
+.call-text p {
+	font-size: 18px;
+	color: #E5E7EB;
+}
+
+.call-to-action a {
+	background: #3882F6;
+	color: #F9FAF8;
+	border: 2px solid #F9FAF8;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 5px 20px;
+	border-radius: 5px;
+	margin-top: 5px;
+	align-self: center;
+	margin-left: auto;
+}
+
+.footer {
+	text-align: center;
+	background-color: #1f2937;
+	color: #E5E7EB;
+	padding: 30px;
+}
